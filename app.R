@@ -2,7 +2,7 @@
 # install.packages(c("shiny", "leaflet", "DT", "ggplot2", "dplyr"))
 
 #indica la ruta donde estamos trabajando
-setwd("C:/Users/MARCOS/Desktop/2do Año/Ciencia de Datos/Dashboard")
+setwd("C:/Users/Ejemplo/Desktop/Dashboard")
 
 
 library(shiny)
