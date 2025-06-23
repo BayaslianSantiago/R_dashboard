@@ -49,11 +49,4 @@ install.packages(c("shiny", "leaflet", "DT", "ggplot2", "dplyr"))
 
 shiny::runApp()
 
-📂 Estructura del proyecto
-
-📁 tu-proyecto/
-├── app.R                  # Código principal de la app Shiny
-├── centros-medicos-barriales.csv  # Dataset con los centros médicos
-└── README.md              # Este archivo
-
 ¡Gracias por visitar este proyecto! Si tenés sugerencias o mejoras, no dudes en abrir un issue o hacer un pull request.
